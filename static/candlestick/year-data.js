@@ -1,0 +1,16 @@
+export default [
+	{ time: '2006-01-02', open: 75.56, high: 82.94, low: 36.56, close: 85.74 },
+	{ time: '2007-01-01', open: 77.96, high: 85.04, low: 37.96, close: 46.74 },
+	{ time: '2008-01-01', open: 76.56, high: 83.44, low: 36.56, close: 46.24 },
+	{ time: '2009-01-01', open: 75.16, high: 82.84, low: 36.16, close: 85.72 },
+	{ time: '2010-01-01', open: 77.76, high: 84.34, low: 37.76, close: 46.54 },
+	{ time: '2011-01-03', open: 75.36, high: 82.54, low: 36.36, close: 85.24 },
+	{ time: '2012-01-02', open: 76.96, high: 84.04, low: 36.96, close: 46.64 },
+	{ time: '2013-01-01', open: 75.76, high: 83.14, low: 36.76, close: 85.84 },
+	{ time: '2014-01-01', open: 78.16, high: 84.04, low: 37.16, close: 46.84 },
+	{ time: '2015-01-01', open: 76.36, high: 83.24, low: 36.36, close: 46.04 },
+	{ time: '2016-01-01', open: 75.56, high: 82.94, low: 36.56, close: 85.74 },
+	{ time: '2017-01-02', open: 77.96, high: 85.04, low: 37.96, close: 46.74 },
+	{ time: '2018-01-01', open: 76.56, high: 83.44, low: 36.56, close: 46.24 },
+	{ time: '2019-01-01', open: 75.16, high: 82.84, low: 36.16, close: 85.72 },
+]

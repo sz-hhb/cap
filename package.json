@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "echarts": "^5.4.3",
+    "lightweight-charts": "^4.1.1",
+    "socket.io-client": "^4.7.4"
+  },
+  "devDependencies": {
+    "sass": "^1.69.7"
+  }
+}
